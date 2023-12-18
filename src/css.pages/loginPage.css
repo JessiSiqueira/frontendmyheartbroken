@@ -1,0 +1,120 @@
+.boxdiv {
+    display: flex;
+    flex-direction: row;
+}
+
+.login-div {
+    align-items: center;
+    width: 26%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 1px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font: inherit;
+    height: 500px;
+    margin-left: 23%;
+    margin-top: 12%;
+    padding: 49px 0px;
+    position: relative;
+    vertical-align:bottom;
+}
+
+.email-input {
+    padding-left: 6px;
+    margin-top: 4%;
+    margin-left: 6%;
+    margin-right: 0%;
+    width: 87%;
+    height: 50%;   
+    border-radius: 5px;
+    border: 1px solid rgb(219, 219, 219);
+}
+
+.password-input {
+    padding: 9px;
+    margin-top: 4%;
+    margin-left: 6%;
+    margin-right: 0%;
+    width: 87%; 
+    height: 50%;
+    border-radius: 5px;
+    border: 1px solid rgb(219, 219, 219);;
+}
+
+.div-button {
+    margin-top: 13%;
+    display: flex;
+    flex-direction: column;
+}
+.span {
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 75%;
+    color: #4a503d;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: #275642;
+    margin-left: -2%;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ffffff;
+}
+
+img {
+    margin-top: 1%;
+    margin-right: 3%;
+    width: 60%;
+}
+
+.h1-welcome {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    color: #ffffff;
+    margin-top: 8%;
+    margin-left: 2%;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #275642;
+}
+
+.login-submit-btn {
+    background-color: #ef6789;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 1px;
+    color: white;
+    padding: 8px 90px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer; 
+}
+
+.div-welcome {
+    align-items: center;
+    width: 28%;
+    background-color: #f6b59f;
+    border: 1px solid #f6b59f;
+    border-radius: 1px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    height: 500px;
+    margin-left: 0%;
+    margin-top: 12%;
+    padding: 20px 0px;
+    position: relative;
+    vertical-align:bottom;
+}
+
