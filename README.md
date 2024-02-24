@@ -12,10 +12,9 @@ Tecnologias utilizadas:
 Instruções para inicializar o projeto
 
 1. Clone o repositório
-git clone git@github.com:LeomarLinhares/trybewallet.git
+git clone https://github.com/JessiSiqueira/frontendmyheartbroken.git
 
 2. Entre na pasta do repositório que você acabou de clonar:
-cd trybewallet
 
 4. Instale as dependências e inicialize o projeto
 Instale as dependências:
