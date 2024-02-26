@@ -16,8 +16,7 @@ git clone https://github.com/JessiSiqueira/frontendmyheartbroken.git
 
 2. Entre na pasta do repositório que você acabou de clonar:
 
-4. Instale as dependências e inicialize o projeto
-Instale as dependências:
+4. Instale as dependências:
 npm install
 
 5. Inicialize o projeto:
