@@ -1,5 +1,5 @@
-Sobre o projeto
-Uma aplicativo que vai te ajudar a lidar com as suas relações, ou com o término delas.
+Sobre o projeto:
+- Um aplicativo que vai te ajudar a lidar com as suas relações, ou com o término delas, de maneira bem humorada.
 
 Tecnologias utilizadas:
 
@@ -12,13 +12,13 @@ Tecnologias utilizadas:
 Instruções para inicializar o projeto
 
 1. Clone o repositório
-git clone https://github.com/JessiSiqueira/frontendmyheartbroken.git
+- git clone https://github.com/JessiSiqueira/frontendmyheartbroken.git
 
 2. Entre na pasta do repositório que você acabou de clonar:
 
 4. Instale as dependências:
-npm install
+- npm install
 
 5. Inicialize o projeto:
-npm start
+- npm start
 
