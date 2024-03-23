@@ -20,5 +20,5 @@ Instruções para inicializar o projeto
 - npm install
 
 5. Inicialize o projeto:
-- npm start
+- npm run dev
 
