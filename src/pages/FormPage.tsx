@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import '../css.pages/formPage.css'
 import formImage from '../images/7375349.png';
 import { useState } from 'react';
+import axios from 'axios';
 
 type IFormDataState = {
   name: string;
@@ -14,10 +15,8 @@ function FormPage() {
   const [formData, setFormData] = useState<IFormDataState>({} as IFormDataState);
   
   const register = () => {
-    fetch("http://localhost:3001/register", {
-      method: "POST",
-      body: JSON.stringify(formData),
-    });
+    axios.post("http://localhost:3001/register", formData)
+      .then(response => console.log(response));
   }
 
     return (
